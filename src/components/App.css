@@ -1,0 +1,86 @@
+* {
+    padding: 0;
+    margin: 5px;
+    font-family: Arial;
+}
+
+.container {
+    width: 1000px;
+}
+
+h3 {
+    font-family: "Comic Sans MS";
+    padding: 1em;
+}
+
+main {
+    border-top: solid 2px black;
+    border-bottom: solid 2px black;
+    padding-top: 1.3em;
+    padding-bottom: 1.3em;
+
+}
+
+main h5 {
+    font-family: Arial;
+    padding: 0.5em;
+}
+.main {
+    display: flex;
+    flex-direction: row;
+    overflow: auto;
+    flex-wrap: wrap;
+
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+.todoList {
+    background: #d1d1d1;
+    margin: 0;
+    width: 200px;
+    padding:0.2em;
+}
+.reviewList {
+    background: #d1d1d1;
+    margin: 0;
+    width: 200px;
+    padding:0.2em;
+}
+.inProgressList {
+    background: #a7a7a7;
+    margin: 0;
+    width: 200px;
+    padding:0.2em;
+}
+.doneList {
+    background: #a7a7a7;
+    margin: 0;
+    width: 200px;
+    padding:0.2em;
+}
+.list-item {
+    background: white;
+}
+#listHeading {
+    font-weight: bold;
+    font-family: "Comic Sans MS";
+    font-size: larger;
+    padding: 0.2em;
+}
+.task-item-title {
+    font-weight: bold;
+    padding-top: 0.4em;
+    padding-bottom: 0.4em;
+
+}
+
+.list-item {
+    padding: 0.2em;
+}
+button {
+    border: none;
+    background: none;
+    color: blue;
+}
