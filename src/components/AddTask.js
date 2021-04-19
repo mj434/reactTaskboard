@@ -18,6 +18,7 @@ class AddTask extends React.Component {
                        name="newTask"
                        value={this.state.newTask}
                        onChange={(e) => this.setState({ newTask: e.target.value })} />
+                       <input type="submit"/>
             </form>
         );
     }
