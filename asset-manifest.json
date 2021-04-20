@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reactTaskboard/static/css/main.cbe38558.chunk.css",
+    "main.js": "/reactTaskboard/static/js/main.2d9cdcaf.chunk.js",
+    "main.js.map": "/reactTaskboard/static/js/main.2d9cdcaf.chunk.js.map",
+    "runtime-main.js": "/reactTaskboard/static/js/runtime-main.6e302622.js",
+    "runtime-main.js.map": "/reactTaskboard/static/js/runtime-main.6e302622.js.map",
+    "static/js/2.6df0cf64.chunk.js": "/reactTaskboard/static/js/2.6df0cf64.chunk.js",
+    "static/js/2.6df0cf64.chunk.js.map": "/reactTaskboard/static/js/2.6df0cf64.chunk.js.map",
+    "index.html": "/reactTaskboard/index.html",
+    "static/css/main.cbe38558.chunk.css.map": "/reactTaskboard/static/css/main.cbe38558.chunk.css.map",
+    "static/js/2.6df0cf64.chunk.js.LICENSE.txt": "/reactTaskboard/static/js/2.6df0cf64.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e302622.js",
+    "static/js/2.6df0cf64.chunk.js",
+    "static/css/main.cbe38558.chunk.css",
+    "static/js/main.2d9cdcaf.chunk.js"
+  ]
+}
